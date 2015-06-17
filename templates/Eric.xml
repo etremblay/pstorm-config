@@ -1,0 +1,42 @@
+<templateSet group="Kronos">
+  <template name="qry" value="$stmt = AppManager::DbMaster()-&gt;ExecuteStatement($query, array($END$));&#10;$row = $stmt-&gt;fetch(\PDO::FETCH_ASSOC);&#10;$stmt-&gt;closeCursor();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="qrys" value="$stmt = AppManager::DbMaster()-&gt;ExecuteStatement($query, array());&#10;while($row = $stmt-&gt;fetch(\PDO::FETCH_ASSOC)){&#10;&#9;$END$&#10;}&#10;$stmt-&gt;closeCursor();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="qryx" value="AppManager::DbMaster()-&gt;ExecuteStatement($query, array($END$));" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sqry" value="$stmt = AppManager::GetInstance()-&gt;GetSystemDatabaseConnection()-&gt;executeQuery($query, array($END$));&#10;$row = $stmt-&gt;fetch(\PDO::FETCH_ASSOC);&#10;$stmt-&gt;closeCursor();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sqrys" value="$stmt = AppManager::GetInstance()-&gt;GetSystemDatabaseConnection()-&gt;executeQuery($query, array());&#10;while($row = $stmt-&gt;fetch(\PDO::FETCH_ASSOC)){&#10;&#9;$END$&#10;}&#10;$stmt-&gt;closeCursor();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sqryx" value="AppManager::GetInstance()-&gt;GetSystemDatabaseConnection()-&gt;executeUpdate($query, array($END$}));" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="\Kronos\Common\Debug::Debug($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ismodule" value="AppManager::GetInstance()-&gt;IsModuleActive('$END$')" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

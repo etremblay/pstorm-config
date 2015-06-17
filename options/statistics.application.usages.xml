@@ -1,0 +1,82 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-interpreters">
+      <project id="kronos-scan" values="0" />
+      <project id="kronos-lib" values="0" />
+      <project id="kronos-crm" values="0" />
+      <project id="kronos-voice" values="0" />
+    </group>
+    <group name="module type">
+      <project id="kronos-scan" values="WEB_MODULE" />
+      <project id="kronos-lib" values="WEB_MODULE" />
+      <project id="kronos-crm" values="WEB_MODULE" />
+      <project id="kronos-voice" values="WEB_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="kronos-scan" values="Git" />
+      <project id="kronos-lib" values="Git" />
+      <project id="kronos-crm" values="Git" />
+      <project id="kronos-voice" values="Git" />
+    </group>
+    <group name="file-type">
+      <project id="kronos-scan" values="Locale,XHTML,PHP,Twig,Ini,ARCHIVE,Native,HTML,SQLite Database,PHAR,DTD,XML,TypeScript,Images,htaccess,CSS,JSON,PLAIN_TEXT,SQL,JavaScript,C++,UNKNOWN,YAML,ReST" />
+      <project id="kronos-lib" values="SCSS,Images,PHP,ARCHIVE,SQL,JavaScript,PLAIN_TEXT,CSS,JSON,Native,XML,UNKNOWN,HTML" />
+      <project id="kronos-crm" values="CSS,CoffeeScript,Locale,SCSS,Native,SQL,JSON,SourceMap,DTD,JSHint,Images,XHTML,htaccess,XML,PATCH,ActionScript,JavaScript,C++,PLAIN_TEXT,TypeScript,ReST,HTML,JSCS,YAML,ARCHIVE,PHAR,Twig,ESLint,UNKNOWN,SmartyConfig,SQLite Database,Ini,Smarty,PHP" />
+      <project id="kronos-voice" values="XML,PLAIN_TEXT,UNKNOWN" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="kronos-scan" values="not installed" />
+      <project id="kronos-lib" values="not installed" />
+      <project id="kronos-crm" values="not installed" />
+      <project id="kronos-voice" values="not installed" />
+    </group>
+    <group name="deployment server">
+      <project id="kronos-scan" values="LOCAL" />
+      <project id="kronos-lib" values="LOCAL" />
+      <project id="kronos-crm" values="LOCAL" />
+      <project id="kronos-voice" values="LOCAL" />
+    </group>
+    <group name="php-include-path">
+      <project id="kronos-scan" values="0" />
+      <project id="kronos-lib" values="0" />
+      <project id="kronos-crm" values="1" />
+      <project id="kronos-voice" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="kronos-scan" values="DEFAULT" />
+      <project id="kronos-lib" values="DEFAULT" />
+      <project id="kronos-crm" values="DEFAULT" />
+      <project id="kronos-voice" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kronos-scan" values="Project,Project" />
+      <project id="kronos-lib" values="Project,Project" />
+      <project id="kronos-crm" values="Project,Project" />
+      <project id="kronos-voice" values="Project,Project" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="kronos-scan" values="0" />
+      <project id="kronos-lib" values="0" />
+      <project id="kronos-crm" values="0" />
+      <project id="kronos-voice" values="0" />
+    </group>
+    <group name="php-servers">
+      <project id="kronos-scan" values="0" />
+      <project id="kronos-lib" values="0" />
+      <project id="kronos-crm" values="0" />
+      <project id="kronos-voice" values="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="2" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="15" />
+      <entry feature="ide.settings.PHP" count="5" />
+      <entry feature="ideaapp.started" count="2" />
+    </counts>
+  </component>
+</application>

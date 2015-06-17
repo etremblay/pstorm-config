@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="574" y="333" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="522" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="791" y="284" />
+    <location key="#Directories.0.0.1920.1080" x="728" y="270" />
+    <location key="OptionsEditor.0.0.1920.1080" x="308" y="101" />
+    <location key="findTextDialog.0.0.1920.1080" x="751" y="274" />
+    <location key="ComposerInitDialogKey.0.0.1920.1080" x="742" y="419" />
+    <location key="#PHP.0.0.1920.1080" x="687" y="202" />
+    <location key="NewPhpFileDialog.0.0.1920.1080" x="760" y="448" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1920.1080" x="618" y="280" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="749" y="218" />
+    <location key="DiffWindow.0.0.1920.1080" x="98" y="97" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="428" height="490" />
+    <size key="#Directories.0.0.1920.1080" width="841" height="502" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1204" height="851" />
+    <size key="findTextDialog.0.0.1920.1080" width="412" height="495" />
+    <size key="ComposerInitDialogKey.0.0.1920.1080" width="430" height="204" />
+    <size key="#PHP.0.0.1920.1080" width="540" height="638" />
+    <size key="NewPhpFileDialog.0.0.1920.1080" width="394" height="147" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1920.1080" width="677" height="483" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1920.1080" width="428" height="575" />
+    <size key="DiffWindow.0.0.1920.1080" width="1724" height="852" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>

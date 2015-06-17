@@ -1,0 +1,23 @@
+<application>
+  <component name="UsagesStatistic" time="1433960732425" allowed="true" show-notification="false" period="weekly">
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=2" />
+    <group id="Look and Feel" priority="0.0" data="Linux - Darcula=1" />
+    <group id="UI Features" priority="0.0" data="Recent Files (30  50]=1,Tabs Top=1,Show tips on startup=1,Tool Window buttons visible=1,Nav Bar visible=1,Status bar visible=1,Toolbar hidden=1,Toolbar + NavBar=1" />
+    <group id="deployment server" priority="0.0" data="LOCAL=2" />
+    <group id="features counts" priority="0.0" data="ideaapp.started=2,ide.settings.JavaScript=2,ide.settings.Live_Templates=15,ide.settings.PHP=2,ide.settings.Code_Style=3" />
+    <group id="file-type" priority="0.0" data="UNKNOWN=2,JSON=2,PHP=2,Ini=1,CoffeeScript=1,ESLint=1,SCSS=2,XML=2,C++=1,PHAR=1,Smarty=1,HTML=2,JSHint=1,SQL=2,Twig=1,ActionScript=1,JavaScript=2,Native=2,ARCHIVE=2,PATCH=1,Locale=1,ReST=1,SQLite Database=1,DTD=1,XHTML=1,SmartyConfig=1,JSCS=1,YAML=1,CSS=2,TypeScript=1,htaccess=1,LESS=0,Images=2,SourceMap=1,PLAIN_TEXT=2" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=4" />
+    <group id="module type" priority="0.0" data="WEB_MODULE=2" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="php-debug-skipped-paths" priority="0.0" data="0=2" />
+    <group id="php-include-path" priority="0.0" data="1=1,0=1" />
+    <group id="php-interpreter-version" priority="0.0" data="not installed=2" />
+    <group id="php-interpreters" priority="0.0" data="0=2" />
+    <group id="php-servers" priority="0.0" data="0=2" />
+    <group id="productivity" priority="0.0" data="editing.completion.finishByDotEtc=1,refactoring.rename=1,navigation.popup.camelprefix=1,navigation.goto.declaration=146,ui.tree.speedsearch=1,SearchEverywhere=1,codeassists.comment.line=26,editing.completion.basic=186,editing.select.word=1386,editing.completion.camelHumps=5,navigation.popup.file=14" />
+    <group id="user.jdk" priority="0.0" data="Sun Microsystems Inc. 1.6=1" />
+    <group id="user.os.name" priority="0.0" data="Linux=1" />
+    <group id="user.os.version" priority="0.0" data="Linux Ubuntu 14.04.2 LTS  Trusty Tahr=1" />
+    <group id="vcs" priority="0.0" data="Git=2" />
+  </component>
+</application>
